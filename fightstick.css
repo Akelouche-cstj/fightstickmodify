@@ -91,22 +91,19 @@
 
 .fight-stick .p0:after {
     content: "Player 1";
-	display:none;
+    display:none;
 }
 
 .fight-stick .p1:after {
     content: "Player 2";
-	display:none;
 }
 
 .fight-stick .p2:after {
     content: "Player 3";
-	display:none;
 }
 
 .fight-stick .p3:after {
     content: "Player 4";
-	display:none;
 }
 
 .fight-stick .arrows {
@@ -166,25 +163,21 @@
 .fight-stick .a {
     bottom: 0px;
     left: 0px;
-
 }
 
 .fight-stick .b {
     bottom: 66px;
     right: 31px;
-
 }
 
 .fight-stick .x {
     top: 66px;
     left: 33px
-
 }
 
 .fight-stick .y {
     right: 0px;
     top: 0px;
-
 }
 
 .fight-stick .fstick {
